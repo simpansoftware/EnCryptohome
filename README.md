@@ -17,6 +17,7 @@ It does what the encryption thing does in reverse
 ## Usage
 - `main.exe encrypt <folder>` - encrypts a folder and makes it an .enczip file
 - `main.exe decrypt <enczip>` - decrypts an .enczip file and makes it a regular .zip file
+Note: If you generate a random password, it will NOT be saved elsewhere, save it somewhere safe!
 ## Credits
 - Me for mostly everything
 - Sonnet 4.6 for helping me with the idea and stuff
